@@ -7,7 +7,7 @@ x = 0 : dersten kalma
 
 P ( X = x ) = p^x*(1 –p)^(1-x),   x = 0, 1
 
-###Örneğin; Bir  öğrenci  İstatistik  dersinden  geçme  olasılığının  0.7  olduğuna inanmaktadır.  Olasılık  dağılımının  fonksiyonunu  yazınız?  
+### Örneğin; Bir  öğrenci  İstatistik  dersinden  geçme  olasılığının  0.7  olduğuna inanmaktadır.  Olasılık  dağılımının  fonksiyonunu  yazınız?  
 
 x = 1 : dersi gerçme
 x = 0 : dersten kalma
@@ -23,7 +23,7 @@ P (x=0) = 0.3
 
 ![](https://github.com/yildirimyy/binomial-bernoulli/blob/master/Screen/1.png) 
 
-###Örneğin; Bir  madeni  para  4  kere atılmaktadır, 1  tane  yazı  gelme olasılığını hesaplayınız.
+### Örneğin; Bir  madeni  para  4  kere atılmaktadır, 1  tane  yazı  gelme olasılığını hesaplayınız.
 
 P(1;4,0.5) = 4!/1!(4-1)! * 0.5 * 0.5^3 = 0.25
 
