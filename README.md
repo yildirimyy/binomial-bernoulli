@@ -1,6 +1,6 @@
 # Bernoulli Distribution
 
-* Aynı koşullar altında kesikli bir rassal denemenin sonuçları olumlu - olumsuz, başarılı - başarısız, geçti - kaldı şeklinde birbiriyle bağdaşmayan iki sonuçlu olaylarda, gözlemlerde ya da deneylerde “BERNOULLİ DAĞILIMI” kullanılır. 
+* Aynı koşullar altında kesikli bir rassal denemenin sonuçları olumlu - olumsuz, başarılı - başarısız, geçti - kaldı şeklinde ise birbiriyle bağdaşmayan iki sonuçlu bu şekilde olaylarda, gözlemlerde ya da deneylerde “BERNOULLİ DAĞILIMI” kullanılır. 
 
 x = 1 : dersi gerçme
 x = 0 : dersten kalma
